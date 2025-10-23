@@ -1,0 +1,5 @@
+2025-10-23 21:38:07,132 - INFO -  Screenshot saved: screenshots/test_open_and_close_menu_20251023_213807.png
+2025-10-23 21:38:23,620 - INFO -  Screenshot saved: screenshots/test_reset_app_state_clears_cart_20251023_213823.png
+2025-10-23 21:38:34,230 - INFO -  Screenshot saved: screenshots/test_logout_redirects_to_login_20251023_213834.png
+2025-10-23 21:38:46,767 - INFO -  Screenshot saved: screenshots/test_all_items_from_cart_20251023_213846.png
+2025-10-23 21:39:54,490 - INFO -  Screenshot saved: screenshots/test_about_navigates_and_back_20251023_213954.png
