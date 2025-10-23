@@ -1,0 +1,15 @@
+{
+  "url": "https://admin-demo.nopcommerce.com/Admin",
+  "browsers": ["chrome", "edge"],
+  "implicit_wait": 10,
+  "explicit_wait": 15,
+  "screenshot_path": "screenshots/",
+  "report_paths": {
+    "allure": "reports/allure/",
+    "html": "reports/html/"
+  },
+  "credentials": {
+    "username": "admin@yourstore.com",
+    "password": "admin"
+  }
+}

@@ -1,0 +1,50 @@
+2025-10-23 10:25:15,196 - ERROR - Failed to take screenshot: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=141.0.7390.122)
+Stacktrace:
+	GetHandleVerifier [0x0x119fe43+66515]
+	GetHandleVerifier [0x0x119fe84+66580]
+	(No symbol) [0x0xf8dc48]
+	(No symbol) [0x0xf6c18d]
+	(No symbol) [0x0x1001a4e]
+	(No symbol) [0x0x101c4d9]
+	(No symbol) [0x0xffafc6]
+	(No symbol) [0x0xfcc2ca]
+	(No symbol) [0x0xfcd154]
+	GetHandleVerifier [0x0x13f7353+2521315]
+	GetHandleVerifier [0x0x13f22d3+2500707]
+	GetHandleVerifier [0x0x11c7c94+229924]
+	GetHandleVerifier [0x0x11b81f8+165768]
+	GetHandleVerifier [0x0x11becad+193085]
+	GetHandleVerifier [0x0x11a8158+100072]
+	GetHandleVerifier [0x0x11a82f0+100480]
+	GetHandleVerifier [0x0x11925aa+11066]
+	BaseThreadInitThunk [0x0x766a5d49+25]
+	RtlInitializeExceptionChain [0x0x7721d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7721d661+561]
+
+2025-10-23 10:25:36,948 - ERROR - Failed to take screenshot: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=141.0.7390.122)
+Stacktrace:
+	GetHandleVerifier [0x0x119fe43+66515]
+	GetHandleVerifier [0x0x119fe84+66580]
+	(No symbol) [0x0xf8dc48]
+	(No symbol) [0x0xf6c18d]
+	(No symbol) [0x0x1001a4e]
+	(No symbol) [0x0x101c4d9]
+	(No symbol) [0x0xffafc6]
+	(No symbol) [0x0xfcc2ca]
+	(No symbol) [0x0xfcd154]
+	GetHandleVerifier [0x0x13f7353+2521315]
+	GetHandleVerifier [0x0x13f22d3+2500707]
+	GetHandleVerifier [0x0x11c7c94+229924]
+	GetHandleVerifier [0x0x11b81f8+165768]
+	GetHandleVerifier [0x0x11becad+193085]
+	GetHandleVerifier [0x0x11a8158+100072]
+	GetHandleVerifier [0x0x11a82f0+100480]
+	GetHandleVerifier [0x0x11925aa+11066]
+	BaseThreadInitThunk [0x0x766a5d49+25]
+	RtlInitializeExceptionChain [0x0x7721d6db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7721d661+561]
+

@@ -1,0 +1,53 @@
+2025-10-23 12:05:46,767 - INFO -  Screenshot saved: screenshots/test_products_smoke_flows[single_add]_20251023_120546.png
+2025-10-23 12:05:59,519 - INFO -  Screenshot saved: screenshots/test_products_smoke_flows[add_two_remove_one]_20251023_120559.png
+2025-10-23 12:06:13,539 - INFO -  Screenshot saved: screenshots/test_products_smoke_flows[add_three_clear_two]_20251023_120613.png
+2025-10-23 12:06:36,247 - ERROR - Failed to save screenshot: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7fe262685+51877]
+	GetHandleVerifier [0x0x7ff7fe2626e4+51972]
+	GetHandleVerifier [0x0x7ff7fe418c75+1847445]
+	(No symbol) [0x0x7ff7fdfb0e5f]
+	(No symbol) [0x0x7ff7fe0474ec]
+	(No symbol) [0x0x7ff7fe05ed0a]
+	(No symbol) [0x0x7ff7fe041df3]
+	(No symbol) [0x0x7ff7fe015b36]
+	(No symbol) [0x0x7ff7fe014d80]
+	(No symbol) [0x0x7ff7fe015973]
+	(No symbol) [0x0x7ff7fe0de4a5]
+	(No symbol) [0x0x7ff7fe0da75d]
+	GetHandleVerifier [0x0x7ff7fe28cec3+226019]
+	GetHandleVerifier [0x0x7ff7fe27c091+156849]
+	GetHandleVerifier [0x0x7ff7fe284589+190889]
+	GetHandleVerifier [0x0x7ff7fe2697c4+80868]
+	GetHandleVerifier [0x0x7ff7fe269913+81203]
+	GetHandleVerifier [0x0x7ff7fe257e96+8886]
+	BaseThreadInitThunk [0x0x7ffe624ee8d7+23]
+	RtlUserThreadStart [0x0x7ffe6376c53c+44]
+
+2025-10-23 12:06:55,699 - ERROR - Failed to save screenshot: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: MicrosoftEdge=141.0.3537.92)
+Stacktrace:
+	GetHandleVerifier [0x0x7ff7fe262685+51877]
+	GetHandleVerifier [0x0x7ff7fe2626e4+51972]
+	GetHandleVerifier [0x0x7ff7fe418c75+1847445]
+	(No symbol) [0x0x7ff7fdfb0e5f]
+	(No symbol) [0x0x7ff7fe0474ec]
+	(No symbol) [0x0x7ff7fe05ed0a]
+	(No symbol) [0x0x7ff7fe041df3]
+	(No symbol) [0x0x7ff7fe015b36]
+	(No symbol) [0x0x7ff7fe014d80]
+	(No symbol) [0x0x7ff7fe015973]
+	(No symbol) [0x0x7ff7fe0de4a5]
+	(No symbol) [0x0x7ff7fe0da75d]
+	GetHandleVerifier [0x0x7ff7fe28cec3+226019]
+	GetHandleVerifier [0x0x7ff7fe27c091+156849]
+	GetHandleVerifier [0x0x7ff7fe284589+190889]
+	GetHandleVerifier [0x0x7ff7fe2697c4+80868]
+	GetHandleVerifier [0x0x7ff7fe269913+81203]
+	GetHandleVerifier [0x0x7ff7fe257e96+8886]
+	BaseThreadInitThunk [0x0x7ffe624ee8d7+23]
+	RtlUserThreadStart [0x0x7ffe6376c53c+44]
+
