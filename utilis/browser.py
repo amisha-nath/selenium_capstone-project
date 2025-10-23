@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 import os
-from utils.logger import get_logger
+from utilis.logger import get_logger
 
 logger = get_logger(__name__)
 

@@ -1,6 +1,6 @@
 import csv
 import os
-from utils.logger import get_logger
+from utilis.logger import get_logger
 
 logger = get_logger(__name__)
 

@@ -10,7 +10,7 @@ try:
 except Exception:
     allure = None
 
-from utils.logger import get_logger
+from utilis.logger import get_logger
 logger = get_logger()
 
 class BasePage:
